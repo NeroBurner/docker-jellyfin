@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/static/v1.svg?style=flat-square&color=E68523&label=linuxserver.io&message=GitHub&logo=github&logoColor=FFFFFF)](https://github.com/linuxserver "view the source for all of our repositories.")
 [![Open Collective](https://img.shields.io/opencollective/all/linuxserver.svg?style=flat-square&color=E68523&label=Supporters&logo=open%20collective&logoColor=FFFFFF)](https://opencollective.com/linuxserver "please consider helping us by either donating or contributing to our budget")
 
-The [LinuxServer.io](https://linuxserver.io) team brings you another container release featuring :-
+The [LinuxServer.io](https://linuxserver.io) team brings you another container release featuring:
 
  * regular and timely application updates
  * easy user mappings (PGID, PUID)
